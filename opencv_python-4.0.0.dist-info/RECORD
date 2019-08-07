@@ -1,0 +1,12 @@
+../../opencv_ffmpeg400_64.dll,sha256=9ouKjy2_wwNuAGXWy3ja0SG_T13Zru2GsFYMH9DVK_M,18652160
+cv2.cp36-win_amd64.pyd,sha256=XwhA1ONyykMIg6Wnf-7_lkwrAyd1I3DOasemui_cUYE,54958080
+opencv.LICENSE,sha256=_qMRkHy2JxsF_1hDsjjg8u228gSjQyl1IRAw0gcEsyE,2234
+opencv.LICENSE-3RD-PARTY,sha256=ASOHdb1kCQfSVwEl-7F3POQjZOEYXmm9eLTEHI55XrU,29170
+opencv_ffmpeg400_64.dll,sha256=9ouKjy2_wwNuAGXWy3ja0SG_T13Zru2GsFYMH9DVK_M,18652160
+cv.py,sha256=rJzKdY0oc1yHy8N5K6U5qoztqwjWCAo8E5PnatDiEkc,21
+opencv_python-4.0.0.dist-info/METADATA,sha256=hp-Ytl2EzkaWPDIe0J9oz5bmCNCbnIX8U0Y2uyjLWrg,307
+opencv_python-4.0.0.dist-info/WHEEL,sha256=NGBd8VpwAMkmGKuUIURJaMXNI6PaAo_v5wy1RzFtRN4,106
+opencv_python-4.0.0.dist-info/top_level.txt,sha256=ByWeW2ZQIqV03v86_OuoQSRX_1WkPP4CmMVefLzw8b4,3
+opencv_python-4.0.0.dist-info/RECORD,,
+opencv_python-4.0.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+__pycache__/cv.cpython-36.pyc,,
